@@ -1,4 +1,4 @@
-# Advanced Statistical and Econometric Theory With Python
+# Advanced Qantitative Methods
 This series of advanced statistics and econometrics course aim to clarify complicated concepts of statics econometrics by numerical simulation and visualization. 
 
 ## Prerequisites
