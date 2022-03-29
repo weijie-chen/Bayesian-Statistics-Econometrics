@@ -23,4 +23,5 @@ In order to reuse some codes in simulation loop, Oject Orient Programming are us
 [Chapter 3 - Hypothesis Testing and Confidence Interval](https://nbviewer.org/github/MacroAnalyst/Advanced_Quantitative_Methods/blob/main/Chapter%203%20-%20Hypothesis%20Test%20and%20Confidence%20Interval.ipynb)<br>
 
 ### Bayesian Methods
-
+[Chapter 1 - Introduction to Bayesian Methods]()<br>
+[Chapter 2 - Bayesian Conjugates](https://nbviewer.org/github/MacroAnalyst/Advanced_Quantitative_Methods/blob/main/Chapter%202%20-%20%20Bayesian%20Conjugates.ipynb)<br>
