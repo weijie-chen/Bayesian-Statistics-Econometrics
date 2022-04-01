@@ -25,3 +25,4 @@ In order to reuse some codes in simulation loop, Oject Orient Programming are us
 ### Bayesian Methods
 [Chapter 1 - Introduction to Bayesian Methods]()<br>
 [Chapter 2 - Bayesian Conjugates](https://nbviewer.org/github/MacroAnalyst/Advanced_Quantitative_Methods/blob/main/Chapter%202%20-%20%20Bayesian%20Conjugates.ipynb)<br>
+[Chapter 3 - Bayesian Simple Linear Regression](https://nbviewer.org/github/MacroAnalyst/Advanced_Quantitative_Methods/blob/main/Chapter%203%20-%20Bayesian%20Simple%20Linear%20Regression.ipynb)
