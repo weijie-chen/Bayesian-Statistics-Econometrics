@@ -14,7 +14,7 @@ And also the attendees are expected to have some exposure of
 - [x] Statsmodels
 - [x] Pandas
 
-In order to reuse some codes in simulation loop, Oject Orient Programming are used but limitedly. 
+In order to reuse some codes in simulation loop, Object Orient Programming are used but limitedly. 
 
 ## Contents
 ### Advanced Econometric and Statistical Methods<br>
