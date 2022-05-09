@@ -26,5 +26,5 @@ In order to reuse some codes in simulation loop, Object-oriented Programming are
 [Chapter 1 - Introduction to Bayesian Methods]()<br>
 [Chapter 2 - Bayesian Conjugates](https://nbviewer.org/github/MacroAnalyst/Advanced_Quantitative_Methods/blob/main/Chapter%202%20-%20%20Bayesian%20Conjugates.ipynb)<br>
 [Chapter 3 - Bayesian Simple Linear Regression](https://nbviewer.org/github/MacroAnalyst/Advanced_Quantitative_Methods/blob/main/Chapter%203%20-%20Bayesian%20Simple%20Linear%20Regression.ipynb)<br>
-[Chapter 4 - Markov Chain Monte Carlo](https://nbviewer.org/github/MacroAnalyst/Advanced_Quantitative_Methods/blob/main/Chapter%204%20-%20Markov%20Chain%20Monte%20Carlo.ipynb)
+[Chapter 4 - Markov Chain Monte Carlo](https://nbviewer.org/github/MacroAnalyst/Advanced_Quantitative_Methods/blob/main/Chapter%204%20-%20Markov%20Chain%20Monte%20Carlo.ipynb)<br>
 [Chapter 5 - Metropolis-Hastings Algorithm](https://nbviewer.org/github/MacroAnalyst/Advanced_Quantitative_Methods/blob/main/Chapter%205%20-%20Metropolis-Hastings%20Algorithm.ipynb)
