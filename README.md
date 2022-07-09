@@ -29,3 +29,4 @@ In order to reuse some codes in simulation loop, Object-oriented Programming are
 [Chapter 4 - Markov Chain Monte Carlo](https://nbviewer.org/github/MacroAnalyst/Advanced_Quantitative_Methods/blob/main/Chapter%204%20-%20Markov%20Chain%20Monte%20Carlo.ipynb)<br>
 [Chapter 5 - Metropolis-Hastings Algorithm](https://nbviewer.org/github/MacroAnalyst/Advanced_Quantitative_Methods/blob/main/Chapter%205%20-%20Metropolis-Hastings%20Algorithm.ipynb)<br>
 [Chapter 6 - Gibbs Sampler](https://nbviewer.org/github/MacroAnalyst/Advanced_Quantitative_Methods/blob/main/Chapter%206%20-%20Gibbs%20Sampler.ipynb)
+[Chapter 7 - Revisit Linear Regression](https://nbviewer.org/github/MacroAnalyst/Advanced_Quantitative_Methods/blob/main/Chapter%207%20-%20Revisit%20Linear%20Regression%20With%20MCMC.ipynb)
