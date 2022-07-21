@@ -1,4 +1,4 @@
-![ad_quant_method](https://user-images.githubusercontent.com/59842360/160185823-72458d97-1d84-4237-8792-bd53400aed2c.jpg)
+![Cover_Github_Repositories](https://user-images.githubusercontent.com/59842360/180305837-4d6e5370-b894-45f1-ab3b-dd405bb207bd.jpg)
 
 # Advanced Qantitative Methods
 This is a training session of advanced quantitative methods, including advanced econometric and statistical theory, time series analysis, Bayesian econometrics/statistics and etc. The course is prepared for senior quantitative analysts/researchers in hedge fund or other research institutes,  also perfect for grad student who are interested in quantitative methods in industry. All proprietary data and cases are removed, thus no institutional information are revealed in these training materials. 
